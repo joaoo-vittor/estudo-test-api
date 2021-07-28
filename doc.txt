@@ -1,0 +1,7 @@
+-> Rodar o locust
+
+$ locust -f tests/app.py
+
+OU
+
+$ locust

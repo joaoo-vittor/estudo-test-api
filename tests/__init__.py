@@ -1,0 +1,1 @@
+from .api_routes_for_test import BASE_URL
